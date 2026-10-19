@@ -71,10 +71,10 @@
 
 | 指标 | 数值 |
 | :-- | :-- |
-| 最近一次检测 | 2026-10-18 20:00 |
-| 官网状态 | 在线（170ms） |
+| 最近一次检测 | 2026-10-19 20:00 |
+| 官网状态 | 在线（223ms） |
 | 30 天可用率 | 100%（已测 26 天） |
-| 连续正常 | 27 天 |
+| 连续正常 | 28 天 |
 
 可用率只按官网可达计算。逐日色条与完整历史见 [https://tizizhinan.co/status/](https://tizizhinan.co/status/)，机器可读数据见 [monitor.json](https://tizizhinan.co/data/monitor.json)（CC BY 4.0）。
 
@@ -82,7 +82,7 @@
 
 | 套餐 | 价格 | 流量 | 每 GB | 线路 | 运营 / 收录 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| 极速版（主推） | ¥23/月 | 148GB | ¥0.16 | IPLC 专线 / 原生 IP | 收录 31 天 |
+| 极速版（主推） | ¥23/月 | 148GB | ¥0.16 | IPLC 专线 / 原生 IP | 收录 32 天 |
 
 价格以官网结算页为准，本表随官网调整更新。完整套餐表与逐项评测见 [光速云评测](https://tizizhinan.co/brands/guangsu/)。
 
@@ -90,8 +90,8 @@
 
 光速云在 [2026 机场推荐榜](https://tizizhinan.co/airport/recommend/) 中排第 3 位。同榜其余各家：
 
-1. [宇宙云](https://github.com/tizizhinan/tizi-yuzhouyun) · [完整评测](https://tizizhinan.co/brands/yuzhouyun/)
-2. [二猫云](https://github.com/tizizhinan/tizi-ermaoyun) · [完整评测](https://tizizhinan.co/brands/ermaoyun/)
+1. [二猫云](https://github.com/tizizhinan/tizi-ermaoyun) · [完整评测](https://tizizhinan.co/brands/ermaoyun/)
+2. [宇宙云](https://github.com/tizizhinan/tizi-yuzhouyun) · [完整评测](https://tizizhinan.co/brands/yuzhouyun/)
 3. [星岛梦](https://github.com/tizizhinan/tizi-xingdaomeng) · [完整评测](https://tizizhinan.co/brands/xingdaomeng/)
 4. [暮光网络](https://github.com/tizizhinan/tizi-muguang) · [完整评测](https://tizizhinan.co/brands/muguang/)
 5. [微风网络](https://github.com/tizizhinan/tizi-weifeng) · [完整评测](https://tizizhinan.co/brands/weifeng/)
